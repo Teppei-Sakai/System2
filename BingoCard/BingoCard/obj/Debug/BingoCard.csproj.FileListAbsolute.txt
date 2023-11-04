@@ -1,0 +1,10 @@
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\bin\Debug\BingoCard.exe.config
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\bin\Debug\BingoCard.exe
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\bin\Debug\BingoCard.pdb
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.csproj.AssemblyReference.cache
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.Properties.Resources.resources
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.csproj.GenerateResource.cache
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.exe
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.pdb
+C:\Users\tetsu\source\repos\BingoCard\BingoCard\obj\Debug\BingoCard.BingoCard.resources
